@@ -1,5 +1,4 @@
 #######################################Intializations##############################################
-
 W_t  = zeros(Simulations, Steps); # Brownian motion
 N_t  = zeros(Simulations, Steps); # Poisson process
 X_t  = zeros(Simulations, Steps); # Compound Poisson process

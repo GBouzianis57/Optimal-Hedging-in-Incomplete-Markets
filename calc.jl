@@ -44,7 +44,6 @@ current_S_2 = S_0_2 .+ zeros(Simulations); # Initializing the value of the risky
 current_X  = zeros(Simulations); # Initializing the value of the poisson process
 current_W  = zeros(Simulations); # Initializing the value of the brownian motion
 
-    
 #######################################Calculations##############################################
     
 #Note: Here sigma is used for jump volatilities and beta is used to brownian volatilities. In the paper itself, in the "Simulations" section, sigma is used for the brownian volatilities and beta for the jump volatilities. The formulas in the code are adjusted based to the notation that is described in this note. Here i=1 and j=2.
