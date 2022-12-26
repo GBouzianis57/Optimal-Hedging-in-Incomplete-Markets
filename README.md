@@ -3,7 +3,7 @@
 
 This repo provides the code for the example in Section 4.5: Simulations.
 
-If you use the code the code please include a reference to the paper. You can cite the paper as follows
+If you use the code please include a reference to the paper. You can cite the paper as follows
 
 ```article{doi:10.1080/1350486X.2020.1819831,
 author = {George Bouzianis and Lane P. Hughston},
